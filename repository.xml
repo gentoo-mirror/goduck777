@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>goduck777</name>
+    <description>Personal overlay containing some not-so-popular apps</description>
+    <homepage>https://github.com/goduck777/overlay</homepage>
+    <owner>
+      <email>goduck777@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/goduck777/overlay.git</source>
+    <source type="git">git://github.com/goduck777/overlay.git</source>
+    <source type="git">git@github.com:goduck777/overlay.git</source>
+    <feed>https://github.com/goduck777/overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
