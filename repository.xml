@@ -4,13 +4,14 @@
   <repo priority="50" quality="experimental" status="unofficial">
     <name>goduck777</name>
     <description>Personal overlay containing some not-so-popular apps</description>
-    <homepage>https://github.com/goduck777/overlay</homepage>
+    <homepage>https://github.com/goduck777/gentoo-overlay</homepage>
     <owner>
       <email>goduck777@gmail.com</email>
+      <name>Chang Liu</name>
     </owner>
-    <source type="git">https://github.com/goduck777/overlay.git</source>
-    <source type="git">git://github.com/goduck777/overlay.git</source>
-    <source type="git">git@github.com:goduck777/overlay.git</source>
-    <feed>https://github.com/goduck777/overlay/commits/master.atom</feed>
+    <source type="git">https://github.com/goduck777/gentoo-overlay.git</source>
+    <source type="git">git://github.com/goduck777/gentoo-overlay.git</source>
+    <source type="git">git@github.com:goduck777/gentoo-overlay.git</source>
+    <feed>https://github.com/goduck777/gentoo-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
