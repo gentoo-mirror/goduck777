@@ -4,7 +4,7 @@
 EAPI=7
 LUA_COMPAT=(lua{5-3,5-4})
 
-inherit cmake-utils eutils flag-o-matic xdg-utils
+inherit cmake-utils lua-single xdg-utils
 
 if [[ "${PV}" == "9999" ]]; then
     inherit git-r3
