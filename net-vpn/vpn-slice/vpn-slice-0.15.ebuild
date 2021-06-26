@@ -15,3 +15,6 @@ LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
+RDEPEND="dev-python/setproctitle[${PYTHON_USEDEP}]
+	dev-python/dnspython[${PYTHON_USEDEP}]
+"
