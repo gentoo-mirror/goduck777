@@ -1,4 +1,5 @@
 app-misc/anki-bin 2.1.37: A spaced-repetition memory training program (flash cards)
 media-libs/rnnoise 0.4.1: A noise suppression library based on a recurrent neural network
 media-sound/pulseeffects 5.0.3-r1: Limiter, compressor, reverberation, equalizer auto volume effects for Pulseaudio
+net-vpn/vpn-slice 0.15: vpnc-script replacement for easy and secure split-tunnel VPN setup
 x11-terms/termit 3.1 9999: termit is a terminal emulator based on VTE library with Lua scripting
