@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>goduck777@gmail.com</email>
+		<name>Chang Liu</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="github">haasad/PyPardisoProject</remote-id>
+		<bugs-to>https://github.com/haasad/PyPardisoProject/issues</bugs-to>
+		<remote-id type="pypi">pypardiso</remote-id>
+	</upstream>
+</pkgmetadata>
