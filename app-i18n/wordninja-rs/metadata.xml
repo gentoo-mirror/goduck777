@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>goduck777@gmail.com</email>
+		<name>Chang Liu</name>
+	</maintainer>
+	<longdescription lang="en">
+		A Rust port of wordninja which passes all the tests and is
+		significantly faster.
+	</longdescription>
+	<upstream>
+		<remote-id type="github">chengyuhui/wordninja-rs</remote-id>
+		<bugs-to>https://github.com/chengyuhui/wordninja-rs/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
