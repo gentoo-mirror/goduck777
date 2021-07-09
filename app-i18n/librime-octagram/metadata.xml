@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person" proxied="yes">
+		<email>goduck777@gmail.com</email>
+		<name>Chang Liu</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">lotem/librime-octagram</remote-id>
+		<bugs-to>https://github.com/lotem/librime-octagram/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
