@@ -2,9 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-media-sound/pulseeffects:bs2b - Enable use of media-libs/libbs2b
-media-sound/pulseeffects:calf - Enable use of media-plugins/calf for adding various FX
-media-sound/pulseeffects:mda-lv2 - Enable use of media-plugins/mda-lv2 for the loudness FX
-media-sound/pulseeffects:rnnoise - Enable usse of media-libs/rnnoise for the noise canceling
-media-sound/pulseeffects:rubberband - Enable usse of media-libs/rubberband for the pitch shifting FX
-media-sound/pulseeffects:webrtc - Enable usse of media-plugins/gst-plugins-webrtc for the WebRTC support
