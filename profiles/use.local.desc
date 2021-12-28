@@ -2,3 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-lang/gdl:eigen - Build matrix manipulation with dev-cpp/eigen
+dev-lang/gdl:glpk - Use GNU Linear Programming Kit sci-mathematics/glpk
+dev-lang/gdl:gshhs - Add support for projection adn continent maps with sci-geosciences/gshhs-data
+dev-lang/gdl:hdf - Add support for the Hierarchical Data Format v.4
+dev-lang/gdl:proj - Add support for sci-libs/proj (geographic projections)
+dev-lang/gdl:udunits - Add support for manipulating units of physical quantities
