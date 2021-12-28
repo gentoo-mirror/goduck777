@@ -104,7 +104,7 @@ src_configure() {
 		-DGLPK=$(usex glpk)
 		-DHDF=$(usex hdf)
 		-DHDF5=$(usex hdf5)
-		-DLIBPROJ4=$(usex proj)
+		-DLIBPROJ=$(usex proj)
 		-DNETCDF=$(usex netcdf)
 		-DOPENMP=$(usex openmp)
 		-DPNGLIB=$(usex png)
