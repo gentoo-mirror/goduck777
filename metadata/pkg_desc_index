@@ -10,4 +10,3 @@ games-engines/gemrb 0.9.0 9999: Reimplementation of the Infinity engine
 games-strategy/freeciv 9999: Multiplayer strategy game (Civilization Clone)
 net-vpn/vpn-slice 0.15: vpnc-script replacement for easy and secure split-tunnel VPN setup
 sys-fs/dua-cli 2.14.3: View disk space usage and delete unwanted data, fast
-x11-terms/termit 3.1 9999: termit is a terminal emulator based on VTE library with Lua scripting
