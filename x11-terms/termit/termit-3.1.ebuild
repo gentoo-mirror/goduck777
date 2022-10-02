@@ -1,10 +1,10 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
 LUA_COMPAT=(lua{5-3,5-4})
 
-inherit cmake-utils lua-single xdg-utils
+inherit cmake lua-single xdg-utils
 
 if [[ "${PV}" == "9999" ]]; then
     inherit git-r3
@@ -39,7 +39,7 @@ PATCHES=(
 src_prepare() {
 	sed -e "s/\/share\/doc\/\${TERMIT_PACKAGE}/\/share\/doc\/${P}/" -i doc/CMakeLists.txt || die
 
-	cmake-utils_src_prepare
+	cmake_src_prepare
 }
 
 pkg_postinst() {
