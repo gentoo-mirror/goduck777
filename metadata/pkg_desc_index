@@ -7,5 +7,5 @@ dev-python/pyfzf 0.2.2 0.3.1: A python wrapper for fzf
 dev-python/pypardiso 0.3.2: Python interface to the Intel MKL Pardiso library
 games-strategy/freeciv 9999: Multiplayer strategy game (Civilization Clone)
 net-vpn/vpn-slice 0.15: vpnc-script replacement for easy and secure split-tunnel VPN setup
-sys-fs/dua-cli 2.14.3 2.18.0: A tool to conveniently learn about the disk usage of directories, fast!
+sys-fs/dua-cli 2.18.0 2.20.1: View disk space usage and delete unwanted data, fast
 x11-terms/termit 3.1 9999: termit is a terminal emulator based on VTE library with Lua scripting
