@@ -3,8 +3,9 @@ app-i18n/librime-octagram 20210704103348 99999999999999: Octagram plugin for RIM
 app-i18n/wordninja-rs 0.1.0: A Rust port of wordninja
 app-misc/anki-bin 2.1.49: A spaced-repetition memory training program (flash cards)
 dev-python/mkl-service 2.4.0: Python hooks for Intel(R) Math Kernel Library runtime control settings
-dev-python/pyfzf 0.2.2 0.3.1: A python wrapper for fzf
+dev-python/pyfzf 0.3.1: A python wrapper for fzf
 dev-python/pypardiso 0.3.2: Python interface to the Intel MKL Pardiso library
+games-engines/gemrb 0.9.1 9999: Reimplementation of the Infinity engine
 games-strategy/freeciv 9999: Multiplayer strategy game (Civilization Clone)
 net-vpn/vpn-slice 0.15: vpnc-script replacement for easy and secure split-tunnel VPN setup
 sys-fs/dua-cli 2.18.0 2.20.1: View disk space usage and delete unwanted data, fast
