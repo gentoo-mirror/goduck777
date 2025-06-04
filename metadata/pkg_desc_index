@@ -1,7 +1,6 @@
 app-i18n/librime-charcode 20210704103348 99999999999999: Charcode plugin for RIME
 app-i18n/librime-octagram 20210704103348 99999999999999: Octagram plugin for RIME
 app-misc/anki-bin 2.1.49: A spaced-repetition memory training program (flash cards)
-dev-python/pyfzf 0.3.1: A python wrapper for fzf
 games-engines/gemrb 0.9.1 9999: Reimplementation of the Infinity engine
 games-strategy/freeciv 9999: Multiplayer strategy game (Civilization Clone)
 sys-fs/dua-cli 2.18.0 2.20.1: A tool to conveniently learn about the disk usage of directories, fast!
